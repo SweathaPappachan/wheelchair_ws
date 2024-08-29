@@ -123,9 +123,6 @@ $ roslaunch wheelchair_nav_cameras wheelchair_nav.launch
 
 Will be updated soon!
 
-## Cite 
-https://github.com/laksh-nanwani/wheelchair-camera-lidar/tree/master
-
 
 # Benchmarking 
 
@@ -160,4 +157,7 @@ https://github.com/laksh-nanwani/wheelchair-camera-lidar/tree/master
 - Initially was able to achieve good navigation results, but once the odometry drifts or a complex path is provided the voronoi planner fails. Even after altering the voronoi code, the planner is inconsistent. 
 
 #### Due to these limitations it is better to migrate to ROS2 which uses Behaviour Tree (BT) Navigator, and Task-specific asynchronous servers which enables us to run multiple planners at the same time and react to different scenarios much faster. And also DWB or MPC planner in ROS2 is more modular. 
+
+## Cite 
+https://github.com/laksh-nanwani/wheelchair-camera-lidar/tree/master
 
