@@ -3,7 +3,7 @@
 <launch>
 
 <!-- Robot state publisher -->
-<include file="$(find wheelchair_mapping)/launch/robot_state_publish.launch"/>
+<include file="$(find wheelchair_description)/launch/robot_state_publish.launch"/>
 
 <!-- Realsense Camera launch-->
 <include file="$(find realsense2_camera)/launch/rs_camera.launch"/>
