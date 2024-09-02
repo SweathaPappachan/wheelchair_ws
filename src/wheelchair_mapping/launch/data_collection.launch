@@ -15,7 +15,7 @@
 <include file="$(find kangaroo_driver)/launch/kangaroo_driver.launch"/> 
 
 <!-- LiDAR filter-->
-<!-- <include file="$(find wheelchair_nav_cameras)/laser_filter launch/angle_range_filter.launch" /> -->
+<include file="$(find wheelchair_nav_cameras)/laser_filter launch/angle_range_filter.launch" />
 
 <!-- Joystick control -->
 <include file="$(find teleop_twist_joy)/launch/teleop.launch"/>

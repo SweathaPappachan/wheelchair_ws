@@ -1,17 +1,18 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(wheelchair_navigation)
+project(wheelchair_control)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
-add_compile_options(-std=c++11)
+# add_compile_options(-std=c++11)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  roscpp
-  rospy
-  std_msgs
-  tf
+geometry_msgs
+nav_msgs
+roscpp
+rospy
+std_msgs
 )
 
 ## System dependencies are found with CMake's conventions
@@ -105,7 +106,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## DEPENDS: system dependencies of this project that dependent projects also need
 catkin_package(
 #  INCLUDE_DIRS include
-#  LIBRARIES wheelchair_navigation
+#  LIBRARIES wheel_chair_description
 #  CATKIN_DEPENDS roscpp rospy std_msgs
 #  DEPENDS system_lib
 )
@@ -116,20 +117,14 @@ catkin_package(
 
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
-include_directories(include ${catkin_INCLUDE_DIRS})
-
-add_executable(max_velocity_calculator src/max_velocity_calculator.cpp)
-add_dependencies(max_velocity_calculator ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(max_velocity_calculator ${catkin_LIBRARIES})
-
-add_executable(odom_publisher src/odom_publisher.cpp)
-add_dependencies(odom_publisher ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(odom_publisher ${catkin_LIBRARIES})
-
+include_directories(
+# include
+  ${catkin_INCLUDE_DIRS}
+)
 
 ## Declare a C++ library
 # add_library(${PROJECT_NAME}
-#   src/${PROJECT_NAME}/wheelchair_navigation.cpp
+#   src/${PROJECT_NAME}/wheel_chair_description.cpp
 # )
 
 ## Add cmake target dependencies of the library
@@ -140,7 +135,7 @@ target_link_libraries(odom_publisher ${catkin_LIBRARIES})
 ## Declare a C++ executable
 ## With catkin_make all packages are built within a single CMake context
 ## The recommended prefix ensures that target names across packages don't collide
-# add_executable(${PROJECT_NAME}_node src/wheelchair_navigation_node.cpp)
+# add_executable(${PROJECT_NAME}_node src/wheel_chair_description_node.cpp)
 
 ## Rename C++ executable without prefix
 ## The above recommended prefix causes long target names, the following renames the
@@ -164,29 +159,20 @@ target_link_libraries(odom_publisher ${catkin_LIBRARIES})
 # all install targets should use catkin DESTINATION variables
 # See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
 
-
-install(DIRECTORY launch rviz param src
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
-
-install(DIRECTORY include/${PROJECT_NAME}/
-  DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
-)
-
-install(TARGETS max_velocity_calculator
-  RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
-
-install(TARGETS odom_publisher
-  RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
-
-
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
 # catkin_install_python(PROGRAMS
 #   scripts/my_python_script
 #   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 # )
+
+install(DIRECTORY launch src 
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
+
+install(PROGRAMS
+  src/mover.py
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
 
 ## Mark executables for installation
 ## See http://docs.ros.org/melodic/api/catkin/html/howto/format1/building_executables.html
@@ -221,7 +207,7 @@ install(TARGETS odom_publisher
 #############
 
 ## Add gtest based cpp test target and link libraries
-# catkin_add_gtest(${PROJECT_NAME}-test test/test_wheelchair_navigation.cpp)
+# catkin_add_gtest(${PROJECT_NAME}-test test/test_wheel_chair_description.cpp)
 # if(TARGET ${PROJECT_NAME}-test)
 #   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
 # endif()
