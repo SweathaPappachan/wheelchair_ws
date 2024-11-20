@@ -1,0 +1,6 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/robot_nav_rviz_plugins/cmake/robot_nav_rviz_pluginsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/robot_nav_rviz_plugins/cmake/robot_nav_rviz_pluginsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/librobot_nav_rviz_plugins.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/librnrp_utils.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libbasic_palettes.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/robot_nav_rviz_plugins.pc

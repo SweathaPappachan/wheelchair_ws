@@ -1,0 +1,13 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_plugins/docs/KinematicParamsConfig-usage.dox
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_plugins/docs/KinematicParamsConfig.wikidoc
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_plugins/docs/KinematicParamsConfig.dox
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_plugins/cmake/dwb_pluginsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_plugins/cmake/dwb_pluginsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/include/dwb_plugins/KinematicParamsConfig.h
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libsimple_goal_checker.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libstopped_goal_checker.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libstandard_traj_generator.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/dwb_plugins.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/python3/dist-packages/dwb_plugins/__init__.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/python3/dist-packages/dwb_plugins/cfg/__init__.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/python3/dist-packages/dwb_plugins/cfg/KinematicParamsConfig.py

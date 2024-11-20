@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libkang_lib.so -o /home/sweatha/wheelchair_ws/devel/.private/kangaroo_driver/lib/libkang_lib.so CMakeFiles/kang_lib.dir/src/kang_lib.cpp.o 

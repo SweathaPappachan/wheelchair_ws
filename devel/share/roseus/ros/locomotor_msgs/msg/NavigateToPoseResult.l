@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/locomotor_msgs/share/roseus/ros/locomotor_msgs/msg/NavigateToPoseResult.l

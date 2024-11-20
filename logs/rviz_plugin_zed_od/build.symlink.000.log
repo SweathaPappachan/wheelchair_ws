@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/rviz_plugin_zed_od/cmake/rviz_plugin_zed_odConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/rviz_plugin_zed_od/cmake/rviz_plugin_zed_odConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/librviz_plugin_zed_od.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/rviz_plugin_zed_od.pc

@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/rqt_dwb_plugin/cmake/rqt_dwb_pluginConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/rqt_dwb_plugin/cmake/rqt_dwb_pluginConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/rqt_dwb_plugin.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/python3/dist-packages/rqt_dwb_plugin/__init__.py

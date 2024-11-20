@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/wheelchair_mapping/share/wheelchair_mapping/cmake/wheelchair_mappingConfig.cmake

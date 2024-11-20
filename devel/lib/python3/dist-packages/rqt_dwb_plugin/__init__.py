@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/rqt_dwb_plugin/lib/python3/dist-packages/rqt_dwb_plugin/__init__.py

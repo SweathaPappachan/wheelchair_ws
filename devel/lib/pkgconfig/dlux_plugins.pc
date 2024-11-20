@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dlux_plugins/lib/pkgconfig/dlux_plugins.pc

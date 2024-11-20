@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/xsens_msgs/share/roseus/ros/xsens_msgs/msg/XsensQuaternion.l

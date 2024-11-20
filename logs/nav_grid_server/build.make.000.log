@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target saver[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/saver.dir/src/saver.cpp.o[0m
+[35m[1mScanning dependencies of target image_loader[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/image_loader.dir/src/image_loader.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/nav_grid_server/lib/libimage_loader.so[0m
+[ 50%] Built target image_loader
+[35m[1mScanning dependencies of target server[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/server.dir/src/server.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/nav_grid_server/lib/nav_grid_server/saver[0m
+[ 83%] Built target saver
+[100%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/nav_grid_server/lib/nav_grid_server/server[0m
+[100%] Built target server

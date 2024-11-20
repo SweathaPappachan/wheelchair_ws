@@ -1,0 +1,192 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target named_colors_demo_autogen[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  4%] Built target std_srvs_generate_messages_lisp
+[  4%] [34m[1mAutomatic MOC for target named_colors_demo[0m
+[  4%] Built target visualization_msgs_generate_messages_py
+[  4%] Built target std_srvs_generate_messages_eus
+[  4%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_nodejs[0m
+[  4%] Built target rviz_generate_messages_py
+[  4%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rviz_generate_messages_lisp[0m
+[  4%] Built target visualization_msgs_generate_messages_lisp
+[  4%] Built target rviz_generate_messages_nodejs
+[  4%] Built target named_colors_demo_autogen
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+[  4%] Built target rviz_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[  4%] Built target map_msgs_generate_messages_nodejs
+[  4%] Built target map_msgs_generate_messages_lisp
+[  4%] Built target map_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  4%] Built target nav_msgs_generate_messages_eus
+[  4%] Built target map_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  4%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_py[0m
+[  4%] Built target actionlib_generate_messages_nodejs
+[  4%] Built target actionlib_generate_messages_lisp
+[  4%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  4%] Built target actionlib_msgs_generate_messages_cpp
+[  4%] Built target nav_2d_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  4%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  4%] Built target nav_2d_msgs_generate_messages_cpp
+[  4%] Built target rviz_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  4%] Built target tf2_msgs_generate_messages_cpp
+[  4%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  4%] Built target geometry_msgs_generate_messages_py
+[  4%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  4%] Built target map_msgs_generate_messages_py
+[  4%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  4%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  4%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  4%] Built target tf_generate_messages_eus
+[  4%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_eus[0m
+[  4%] Built target sensor_msgs_generate_messages_cpp
+[  4%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  4%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  4%] Built target nav_2d_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  4%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  4%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  4%] Built target std_srvs_generate_messages_cpp
+[  4%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  4%] Built target nav_2d_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  4%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  4%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  4%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  4%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  4%] Built target tf2_msgs_generate_messages_py
+[  4%] Built target roscpp_generate_messages_cpp
+[  4%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  4%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  4%] Built target nav_2d_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  4%] Built target tf2_msgs_generate_messages_eus
+[  4%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  4%] Built target roscpp_generate_messages_py
+[  4%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  4%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  4%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  4%] Built target actionlib_generate_messages_eus
+[  4%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  4%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  4%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  4%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  4%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  4%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rviz_generate_messages_eus[0m
+[  4%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  4%] Built target tf2_msgs_generate_messages_lisp
+[  4%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  4%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  4%] Built target rviz_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  4%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  4%] Built target tf_generate_messages_nodejs
+[  4%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pong_autogen[0m
+[  4%] Built target sensor_msgs_generate_messages_eus
+[  4%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target demo_palettes_autogen[0m
+[35m[1mScanning dependencies of target named_colors_demo[0m
+[  9%] [34m[1mAutomatic MOC for target pong[0m
+[35m[1mScanning dependencies of target spectrum_display_autogen[0m
+[ 13%] [34m[1mAutomatic MOC for target demo_palettes[0m
+[35m[1mScanning dependencies of target polygon_autogen[0m
+[ 18%] [34m[1mAutomatic MOC for target spectrum_display[0m
+[ 22%] [34m[1mAutomatic MOC for target polygon[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/named_colors_demo.dir/named_colors_demo_autogen/mocs_compilation.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/named_colors_demo.dir/src/named_colors_demo.cpp.o[0m
+[ 31%] Built target pong_autogen
+[ 31%] Built target demo_palettes_autogen
+[35m[1mScanning dependencies of target pong[0m
+[ 31%] Built target spectrum_display_autogen
+[35m[1mScanning dependencies of target demo_palettes[0m
+[ 31%] Built target polygon_autogen
+[ 36%] [34m[1mGenerating include/robot_nav_viz_demos/moc_spectrum_display.cpp[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/demo_palettes.dir/demo_palettes_autogen/mocs_compilation.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/demo_palettes.dir/src/demo_palettes.cpp.o[0m
+[35m[1mScanning dependencies of target polygon[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pong.dir/pong_autogen/mocs_compilation.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pong.dir/src/pong.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/polygon.dir/polygon_autogen/mocs_compilation.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/polygon.dir/src/polygon_display.cpp.o[0m
+[35m[1mScanning dependencies of target spectrum_display[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/spectrum_display.dir/spectrum_display_autogen/mocs_compilation.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/spectrum_display.dir/src/spectrum_display.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/spectrum_display.dir/include/robot_nav_viz_demos/moc_spectrum_display.cpp.o[0m
+[ 81%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/libdemo_palettes.so[0m
+[ 81%] Built target demo_palettes
+[ 86%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/robot_nav_viz_demos/named_colors_demo[0m
+[ 90%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/robot_nav_viz_demos/pong[0m
+[ 95%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/robot_nav_viz_demos/polygon[0m
+[ 95%] Built target named_colors_demo
+[ 95%] Built target pong
+[ 95%] Built target polygon
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/libspectrum_display.so[0m
+[100%] Built target spectrum_display

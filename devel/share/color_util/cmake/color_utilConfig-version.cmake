@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/color_util/share/color_util/cmake/color_utilConfig-version.cmake

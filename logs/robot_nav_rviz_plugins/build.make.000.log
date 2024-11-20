@@ -1,0 +1,194 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rviz_generate_messages_py[0m
+[  0%] Built target rviz_generate_messages_py
+[35m[1mScanning dependencies of target rviz_generate_messages_nodejs[0m
+[  0%] Built target rviz_generate_messages_nodejs
+[35m[1mScanning dependencies of target rviz_generate_messages_lisp[0m
+[  0%] Built target rviz_generate_messages_lisp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[  0%] Built target map_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[  0%] Built target map_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+[  0%] Built target map_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[  0%] Built target map_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_py[0m
+[  0%] Built target nav_2d_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_2d_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rviz_generate_messages_cpp[0m
+[  0%] Built target rviz_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[  0%] Built target map_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rnrp_utils_autogen[0m
+[  3%] [34m[1mAutomatic MOC for target rnrp_utils[0m
+[  3%] Built target rnrp_utils_autogen
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_eus[0m
+[  3%] Built target nav_2d_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  3%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  3%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_nodejs[0m
+[  3%] Built target nav_2d_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  3%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  3%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  3%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  3%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_2d_msgs_generate_messages_lisp[0m
+[  3%] Built target nav_2d_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  3%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  3%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  3%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  3%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  3%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  3%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  3%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  3%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  3%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  3%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  3%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  3%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rviz_generate_messages_eus[0m
+[  3%] Built target rviz_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  3%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  3%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  3%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  3%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  3%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  3%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rnrp_utils[0m
+[  6%] [32mBuilding CXX object CMakeFiles/rnrp_utils.dir/rnrp_utils_autogen/mocs_compilation.cpp.o[0m
+[  9%] [32mBuilding CXX object CMakeFiles/rnrp_utils.dir/src/spectrum_palette.cpp.o[0m
+[ 12%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/robot_nav_rviz_plugins/lib/librnrp_utils.so[0m
+[ 12%] Built target rnrp_utils
+[35m[1mScanning dependencies of target robot_nav_rviz_plugins_autogen[0m
+[ 15%] [34m[1mAutomatic MOC for target robot_nav_rviz_plugins[0m
+[ 15%] Built target robot_nav_rviz_plugins_autogen
+[35m[1mScanning dependencies of target basic_palettes_autogen[0m
+[ 18%] [34m[1mAutomatic MOC for target basic_palettes[0m
+[ 18%] Built target basic_palettes_autogen
+[ 21%] [34m[1mGenerating include/robot_nav_rviz_plugins/moc_polygons_display.cpp[0m
+[ 25%] [34m[1mGenerating include/robot_nav_rviz_plugins/moc_nav_grid_display.cpp[0m
+[ 28%] [34m[1mGenerating include/robot_nav_rviz_plugins/moc_path_display.cpp[0m
+[ 31%] [34m[1mGenerating include/robot_nav_rviz_plugins/moc_polygon_display.cpp[0m
+[ 34%] [34m[1mGenerating include/robot_nav_rviz_plugins/moc_polygon3d_display.cpp[0m
+[35m[1mScanning dependencies of target robot_nav_rviz_plugins[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/robot_nav_rviz_plugins_autogen/mocs_compilation.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/ogre_panel.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/partial_ogre_panel.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/nav_grid_display.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/nav_grid_of_chars_display.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/nav_grid_of_doubles_display.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/occupancy_grid_display.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/path_display.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/polygon_display.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/polygon3d_display.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/polygons_display.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/src/polygon_parts.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/include/robot_nav_rviz_plugins/moc_nav_grid_display.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/include/robot_nav_rviz_plugins/moc_path_display.cpp.o[0m
+[35m[1mScanning dependencies of target basic_palettes[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/basic_palettes.dir/basic_palettes_autogen/mocs_compilation.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/basic_palettes.dir/src/basic_palettes.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/include/robot_nav_rviz_plugins/moc_polygon_display.cpp.o[0m
+[ 90%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/robot_nav_rviz_plugins/lib/libbasic_palettes.so[0m
+[ 90%] Built target basic_palettes
+[ 93%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/include/robot_nav_rviz_plugins/moc_polygon3d_display.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/robot_nav_rviz_plugins.dir/include/robot_nav_rviz_plugins/moc_polygons_display.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/robot_nav_rviz_plugins/lib/librobot_nav_rviz_plugins.so[0m
+[100%] Built target robot_nav_rviz_plugins

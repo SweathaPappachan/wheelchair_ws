@@ -1,0 +1,8 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/robot_nav_viz_demos/cmake/robot_nav_viz_demosConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/robot_nav_viz_demos/cmake/robot_nav_viz_demosConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libspectrum_display.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdemo_palettes.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/robot_nav_viz_demos.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/robot_nav_viz_demos/pong
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/robot_nav_viz_demos/polygon
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/robot_nav_viz_demos/named_colors_demo

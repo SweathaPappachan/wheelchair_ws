@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/rqt_dwb_plugin/share/rqt_dwb_plugin/cmake/rqt_dwb_pluginConfig-version.cmake

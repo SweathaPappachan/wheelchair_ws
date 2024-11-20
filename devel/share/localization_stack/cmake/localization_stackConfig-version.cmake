@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/localization_stack/share/localization_stack/cmake/localization_stackConfig-version.cmake

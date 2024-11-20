@@ -1,0 +1,5 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_iterators/cmake/nav_grid_iteratorsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_iterators/cmake/nav_grid_iteratorsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libnav_grid_iterators.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/nav_grid_iterators.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/nav_grid_iterators/demo

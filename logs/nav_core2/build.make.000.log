@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target basic_costmap[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/basic_costmap.dir/src/basic_costmap.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/nav_core2/lib/libbasic_costmap.so[0m
+[100%] Built target basic_costmap

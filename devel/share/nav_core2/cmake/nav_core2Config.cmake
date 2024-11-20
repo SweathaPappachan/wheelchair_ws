@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/nav_core2/share/nav_core2/cmake/nav_core2Config.cmake

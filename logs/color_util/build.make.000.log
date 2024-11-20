@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target color_util[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/color_util.dir/src/convert.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/color_util/lib/libcolor_util.so[0m
+[100%] Built target color_util

@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/wheelchair_nav_cameras/lib/pkgconfig/wheelchair_nav_cameras.pc

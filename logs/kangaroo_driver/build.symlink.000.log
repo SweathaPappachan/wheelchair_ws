@@ -1,0 +1,7 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/kangaroo_driver/cmake/kangaroo_driverConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/kangaroo_driver/cmake/kangaroo_driverConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libkang_lib.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/kangaroo_driver.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/kangaroo_driver/kangaroo_driver_node_odom_cmdvel
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/kangaroo_driver/kangaroo_odom_publisher
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/kangaroo_driver/kangaroo_driver_node

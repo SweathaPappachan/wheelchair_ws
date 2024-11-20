@@ -1,0 +1,5 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dlux_global_planner/cmake/dlux_global_plannerConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dlux_global_planner/cmake/dlux_global_plannerConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdgp.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/dlux_global_planner.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/dlux_global_planner/planner_node

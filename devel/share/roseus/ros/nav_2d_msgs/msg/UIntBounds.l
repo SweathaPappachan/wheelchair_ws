@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/nav_2d_msgs/share/roseus/ros/nav_2d_msgs/msg/UIntBounds.l

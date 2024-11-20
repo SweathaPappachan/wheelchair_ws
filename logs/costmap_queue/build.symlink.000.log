@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/costmap_queue/cmake/costmap_queueConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/costmap_queue/cmake/costmap_queueConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libcostmap_queue.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/costmap_queue.pc

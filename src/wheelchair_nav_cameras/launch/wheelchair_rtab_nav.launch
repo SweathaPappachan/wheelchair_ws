@@ -14,7 +14,7 @@
     <rosparam command="load" file="$(find wheelchair_nav_cameras)/param/rtab_global_costmap_params.yaml" />
     <rosparam command="load" file="$(find wheelchair_nav_cameras)/param/rtab_move_base_params.yaml" />
     <rosparam command="load" file="$(find wheelchair_nav_cameras)/param/rtab_dwb_local_planner_params_kangaroo.yaml" />
-    <rosparam command="load" file="$(find wheelchair_nav_cameras)/param/rtab_global_planner_params_dlux.yaml" />
+    <rosparam command="load" file="$(find wheelchair_nav_cameras)/param/rtab_global_planner_params_voronoi.yaml" />
     <remap from="cmd_vel" to="$(arg cmd_vel_topic)" />
     <remap from="odom" to="$(arg odom_topic)" />
   </node>

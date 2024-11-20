@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/xsens_mti_driver/share/xsens_mti_driver/cmake/xsens_mti_driverConfig.cmake

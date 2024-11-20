@@ -1,0 +1,4 @@
+[ 25%] Built target pcl_viewer
+[ 50%] Built target pcl_framesaver
+[ 75%] Built target pcl_vizualizer
+[100%] Built target preprocess_align_publish

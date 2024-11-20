@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dwb_msgs/share/gennodejs/ros/dwb_msgs/msg/LocalPlanEvaluation.js

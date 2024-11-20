@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dwb_critics/share/dwb_critics/cmake/dwb_criticsConfig.cmake

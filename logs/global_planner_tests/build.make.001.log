@@ -1,0 +1,4 @@
+[ 45%] Built target global_planner_tests
+[ 63%] Built target gpt_node
+[ 81%] Built target heatmap_node
+[100%] Built target many_map_node

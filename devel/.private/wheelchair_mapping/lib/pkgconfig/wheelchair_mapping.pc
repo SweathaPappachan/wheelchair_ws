@@ -1,0 +1,8 @@
+prefix=/home/sweatha/wheelchair_ws/devel/.private/wheelchair_mapping
+
+Name: wheelchair_mapping
+Description: Description of wheelchair_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp std_msgs tf roslaunch sensor_msgs rospy

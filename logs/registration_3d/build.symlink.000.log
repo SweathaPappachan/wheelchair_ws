@@ -1,0 +1,7 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/registration_3d/cmake/registration_3dConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/registration_3d/cmake/registration_3dConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/registration_3d/preprocess_align_publish
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/registration_3d/pcl_viewer
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/registration_3d/pcl_framesaver
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/registration_3d/pcl_vizualizer
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/registration_3d.pc

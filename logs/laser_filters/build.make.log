@@ -1,0 +1,9 @@
+[  6%] Built target gtest
+[ 28%] Built target laser_filters_gencfg
+[ 34%] Built target scan_to_cloud_filter_chain
+[ 40%] Built target generic_laser_filter_node
+[ 46%] Built target scan_to_scan_filter_chain
+[ 53%] Built target scan_to_cloud_filter_chain_nodelet
+[ 59%] Built target pointcloud_filters
+[ 93%] Built target laser_scan_filters
+[100%] Built target test_scan_filter_chain

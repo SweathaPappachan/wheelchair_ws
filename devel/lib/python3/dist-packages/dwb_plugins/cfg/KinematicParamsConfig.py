@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dwb_plugins/lib/python3/dist-packages/dwb_plugins/cfg/KinematicParamsConfig.py

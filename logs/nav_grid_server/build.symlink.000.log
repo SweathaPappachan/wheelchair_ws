@@ -1,0 +1,6 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_server/cmake/nav_grid_serverConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_server/cmake/nav_grid_serverConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libimage_loader.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/nav_grid_server.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/nav_grid_server/server
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/nav_grid_server/saver

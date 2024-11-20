@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/locomove_base/cmake/locomove_baseConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/locomove_base/cmake/locomove_baseConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/locomove_base/move_base
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/locomove_base.pc

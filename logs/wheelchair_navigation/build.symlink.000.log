@@ -1,0 +1,5 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/wheelchair_navigation/cmake/wheelchair_navigationConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/wheelchair_navigation/cmake/wheelchair_navigationConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/wheelchair_navigation/max_velocity_calculator
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/wheelchair_navigation/odom_publisher
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/wheelchair_navigation.pc

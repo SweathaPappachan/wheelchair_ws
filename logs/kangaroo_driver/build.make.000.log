@@ -1,0 +1,192 @@
+[35m[1mScanning dependencies of target kang_lib[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/kang_lib.dir/src/kang_lib.cpp.o[0m
+[ 10%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 10%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 10%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[ 10%] Built target trajectory_msgs_generate_messages_lisp
+[ 20%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/kangaroo_driver/lib/libkang_lib.so[0m
+[ 20%] Built target kang_lib
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 20%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 20%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[ 20%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 20%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 20%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 20%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 20%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 20%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 20%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 20%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 20%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[ 20%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 20%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[ 20%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 20%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 20%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 20%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 20%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 20%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 20%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 20%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[ 20%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 20%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 20%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 20%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 20%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 20%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[ 20%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 20%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 20%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 20%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 20%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[ 20%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 20%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 20%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 20%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 20%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 20%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 20%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 20%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 20%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target kangaroo_driver_node[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/kangaroo_driver_node.dir/src/kangaroo_driver_node.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/kangaroo_driver_node.dir/src/kangaroo_driver.cpp.o[0m
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/include/kangaroo_driver/kangaroo_driver.hpp:4[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:1[m[K:
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:[m[K In member function ‘[01m[Kvoid kangaroo::JointTrajCB(const JointTrajectoryPtr&)[m[K’:
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:169:12:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+  169 |   ROS_WARN([01;35m[K"Joint size: %d, Ch1: %d, Ch2: %d"[m[K, [32m[Kmsg->joint_names.size()[m[K, ch1_idx, ch2_idx);
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                     [32m[K|[m[K
+      |                                                                     [32m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type {aka long unsigned int}[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  162 | #define ROS_WARN(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:169:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+  169 |   [01;36m[KROS_WARN[m[K("Joint size: %d, Ch1: %d, Ch2: %d", msg->joint_names.size(), ch1_idx, ch2_idx);
+      |   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:169:26:[m[K [01;36m[Knote: [m[Kformat string is defined here
+  169 |   ROS_WARN("Joint size: [01;36m[K%d[m[K, Ch1: %d, Ch2: %d", msg->joint_names.size(), ch1_idx, ch2_idx);
+      |                         [01;36m[K~^[m[K
+      |                          [01;36m[K|[m[K
+      |                          [01;36m[Kint[m[K
+      |                         [32m[K%ld[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/include/kangaroo_driver/kangaroo_driver.hpp:4[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:1[m[K:
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:[m[K In member function ‘[01m[Kvoid kangaroo::JointStateCB(const ros::WallTimerEvent&)[m[K’:
+[01m[K/opt/ros/noetic/include/ros/console.h:351:176:[m[K [01;35m[Kwarning: [m[Kformat not a string literal and no format arguments [[01;35m[K-Wformat-security[m[K]
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+      |                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:354:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  354 |     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                        [01;36m[K^~~~~~~[m[K
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver.cpp:305:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+  305 |   [01;36m[KROS_ERROR[m[K(s.c_str());
+      |   [01;36m[K^~~~~~~~~[m[K
+[ 50%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/kangaroo_driver/lib/kangaroo_driver/kangaroo_driver_node[0m
+[ 50%] Built target kangaroo_driver_node
+[35m[1mScanning dependencies of target kangaroo_driver_node_odom_cmdvel[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/kangaroo_driver_node_odom_cmdvel.dir/src/kangaroo_driver_node_odom_cmdvel.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/kangaroo_driver_node_odom_cmdvel.dir/src/kangaroo_driver_odom_cmdvel.cpp.o[0m
+[35m[1mScanning dependencies of target kangaroo_odom_publisher[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/kangaroo_odom_publisher.dir/src/kangaroo_odom_publisher.cpp.o[0m
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/include/kangaroo_driver/kangaroo_driver_odom_cmdvel.hpp:4[m[K,
+                 from [01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver_odom_cmdvel.cpp:1[m[K:
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver_odom_cmdvel.cpp:[m[K In member function ‘[01m[Kvoid kangaroo::JointStateCB(const ros::WallTimerEvent&)[m[K’:
+[01m[K/opt/ros/noetic/include/ros/console.h:351:176:[m[K [01;35m[Kwarning: [m[Kformat not a string literal and no format arguments [[01;35m[K-Wformat-security[m[K]
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+      |                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:354:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  354 |     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:214:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  214 | #define ROS_ERROR(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Error, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                        [01;36m[K^~~~~~~[m[K
+[01m[K/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/src/kangaroo_driver_odom_cmdvel.cpp:326:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ERROR[m[K’
+  326 |   [01;36m[KROS_ERROR[m[K(s.c_str());
+      |   [01;36m[K^~~~~~~~~[m[K
+[ 90%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/kangaroo_driver/lib/kangaroo_driver/kangaroo_driver_node_odom_cmdvel[0m
+[ 90%] Built target kangaroo_driver_node_odom_cmdvel
+[100%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/kangaroo_driver/lib/kangaroo_driver/kangaroo_odom_publisher[0m
+[100%] Built target kangaroo_odom_publisher

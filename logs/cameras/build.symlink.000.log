@@ -1,0 +1,5 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/cameras/cmake/camerasConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/cameras/cmake/camerasConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/cameras/cmake.lock
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/cameras/laser_remove_nans.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/cameras.pc

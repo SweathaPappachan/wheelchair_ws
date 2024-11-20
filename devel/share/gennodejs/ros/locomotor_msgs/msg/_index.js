@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/locomotor_msgs/share/gennodejs/ros/locomotor_msgs/msg/_index.js

@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/share/language_nav/cmake/language_navConfig-version.cmake

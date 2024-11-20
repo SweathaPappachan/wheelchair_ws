@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dlux_plugins/cmake/dlux_pluginsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dlux_plugins/cmake/dlux_pluginsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdlux_plugins.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/dlux_plugins.pc

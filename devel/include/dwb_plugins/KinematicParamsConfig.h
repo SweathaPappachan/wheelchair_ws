@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dwb_plugins/include/dwb_plugins/KinematicParamsConfig.h

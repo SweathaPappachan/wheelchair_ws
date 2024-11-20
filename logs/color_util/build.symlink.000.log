@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/color_util/cmake/color_utilConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/color_util/cmake/color_utilConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libcolor_util.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/color_util.pc

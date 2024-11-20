@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dlux_plugins/share/dlux_plugins/cmake/dlux_pluginsConfig-version.cmake

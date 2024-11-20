@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dlux_global_planner/share/dlux_global_planner/cmake/dlux_global_plannerConfig.cmake

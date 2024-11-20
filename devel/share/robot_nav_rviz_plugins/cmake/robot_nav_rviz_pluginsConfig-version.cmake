@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/robot_nav_rviz_plugins/share/robot_nav_rviz_plugins/cmake/robot_nav_rviz_pluginsConfig-version.cmake

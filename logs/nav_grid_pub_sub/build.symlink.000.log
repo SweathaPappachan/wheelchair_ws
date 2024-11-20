@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_pub_sub/cmake/nav_grid_pub_subConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_grid_pub_sub/cmake/nav_grid_pub_subConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libnav_grid_pub_sub.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/nav_grid_pub_sub.pc

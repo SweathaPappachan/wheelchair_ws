@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target costmap_queue[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/costmap_queue.dir/src/costmap_queue.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/costmap_queue.dir/src/limited_costmap_queue.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/costmap_queue/lib/libcostmap_queue.so[0m
+[100%] Built target costmap_queue

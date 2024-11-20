@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/dwb_critics/lib/pkgconfig/dwb_critics.pc

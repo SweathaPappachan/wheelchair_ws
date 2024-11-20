@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sweatha/wheelchair_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/robot_nav_tools/color_util/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/costmap_queue/include/**",
+        "/home/sweatha/wheelchair_ws/src/depthimage_to_laserscan/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/dlux_global_planner/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/dlux_plugins/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/dwb_critics/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/dwb_local_planner/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/dwb_plugins/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/global_planner_tests/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/hls_lfcd_lds_driver/include/**",
+        "/home/sweatha/wheelchair_ws/src/kangaroo_x2_driver/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/laser_filters/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/locomotor/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/locomove_base/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_2d_utils/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_core2/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_core_adapter/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_grid/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_grid_iterators/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_grid_pub_sub/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/nav_grid_server/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/pointcloud_to_laserscan/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/realsense-ros/realsense2_camera/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/realsense_gazebo_plugin/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/robot_nav_tools/robot_nav_rviz_plugins/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_navigation/robot_nav_tools/robot_nav_viz_demos/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/robot_pose_ekf/include/**",
+        "/home/sweatha/wheelchair_ws/src/dependencies/teleop_twist_joy/include/**",
+        "/home/sweatha/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/sweatha/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/sweatha/wheelchair_ws/src/wheelchair_nav_cameras/include/**",
+        "/home/sweatha/wheelchair_ws/src/wheelchair_navigation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

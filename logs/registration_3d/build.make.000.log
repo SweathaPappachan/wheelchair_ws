@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target pcl_viewer[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/pcl_viewer.dir/src/pcl_viewer.cpp.o[0m
+[35m[1mScanning dependencies of target pcl_framesaver[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/pcl_framesaver.dir/src/pcl_framesaver.cpp.o[0m
+[35m[1mScanning dependencies of target pcl_vizualizer[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/pcl_vizualizer.dir/src/pcl_vizualizer.cpp.o[0m
+[35m[1mScanning dependencies of target preprocess_align_publish[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/preprocess_align_publish.dir/src/preprocess_align_publish.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/registration_3d/lib/registration_3d/pcl_viewer[0m
+[ 62%] Built target pcl_viewer
+[ 75%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/registration_3d/lib/registration_3d/pcl_framesaver[0m
+[ 75%] Built target pcl_framesaver
+[ 87%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/registration_3d/lib/registration_3d/pcl_vizualizer[0m
+[ 87%] Built target pcl_vizualizer
+[100%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/registration_3d/lib/registration_3d/preprocess_align_publish[0m
+[100%] Built target preprocess_align_publish

@@ -1,0 +1,8 @@
+language_nav
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/cmake.lock /home/sweatha/wheelchair_ws/devel/./cmake.lock
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/share/language_nav/cmake/language_navConfig.cmake /home/sweatha/wheelchair_ws/devel/share/language_nav/cmake/language_navConfig.cmake
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/share/language_nav/cmake/language_navConfig-version.cmake /home/sweatha/wheelchair_ws/devel/share/language_nav/cmake/language_navConfig-version.cmake
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/lib/pkgconfig/language_nav.pc /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/language_nav.pc
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/lib/language_nav/talker.py /home/sweatha/wheelchair_ws/devel/lib/language_nav/talker.py
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/lib/language_nav/Voice_NLP.py /home/sweatha/wheelchair_ws/devel/lib/language_nav/Voice_NLP.py
+/home/sweatha/wheelchair_ws/devel/.private/language_nav/lib/language_nav/cmake.lock /home/sweatha/wheelchair_ws/devel/lib/language_nav/cmake.lock

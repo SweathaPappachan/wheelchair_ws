@@ -1,0 +1,5 @@
+dependencies/localization-stack
+/home/sweatha/wheelchair_ws/devel/.private/localization_stack/cmake.lock /home/sweatha/wheelchair_ws/devel/./cmake.lock
+/home/sweatha/wheelchair_ws/devel/.private/localization_stack/share/localization_stack/cmake/localization_stackConfig-version.cmake /home/sweatha/wheelchair_ws/devel/share/localization_stack/cmake/localization_stackConfig-version.cmake
+/home/sweatha/wheelchair_ws/devel/.private/localization_stack/share/localization_stack/cmake/localization_stackConfig.cmake /home/sweatha/wheelchair_ws/devel/share/localization_stack/cmake/localization_stackConfig.cmake
+/home/sweatha/wheelchair_ws/devel/.private/localization_stack/lib/pkgconfig/localization_stack.pc /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/localization_stack.pc

@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/nav_2d_msgs/share/nav_2d_msgs/cmake/nav_2d_msgsConfig-version.cmake

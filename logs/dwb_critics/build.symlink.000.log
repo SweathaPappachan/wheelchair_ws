@@ -1,0 +1,4 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_critics/cmake/dwb_criticsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_critics/cmake/dwb_criticsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdwb_critics.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/dwb_critics.pc

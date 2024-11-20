@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/registration_3d/share/registration_3d/cmake/registration_3dConfig-version.cmake

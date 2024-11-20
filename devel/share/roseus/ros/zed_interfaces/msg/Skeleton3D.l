@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/zed_interfaces/share/roseus/ros/zed_interfaces/msg/Skeleton3D.l

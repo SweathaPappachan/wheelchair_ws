@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/locomove_base/share/locomove_base/cmake/locomove_baseConfig-version.cmake

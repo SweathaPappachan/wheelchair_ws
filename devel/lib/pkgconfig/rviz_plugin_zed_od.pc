@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/rviz_plugin_zed_od/lib/pkgconfig/rviz_plugin_zed_od.pc

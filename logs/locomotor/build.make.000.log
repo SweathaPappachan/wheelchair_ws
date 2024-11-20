@@ -1,0 +1,15 @@
+[35m[1mScanning dependencies of target locomotor[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/locomotor.dir/src/locomotor.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/locomotor.dir/src/executor.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/locomotor.dir/src/publishers.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/locomotor.dir/src/locomotor_action_server.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/locomotor/lib/liblocomotor.so[0m
+[ 55%] Built target locomotor
+[35m[1mScanning dependencies of target locomotor2[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/locomotor2.dir/src/double_thread_locomotor.cpp.o[0m
+[35m[1mScanning dependencies of target locomotor1[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/locomotor1.dir/src/single_thread_locomotor.cpp.o[0m
+[ 88%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/locomotor/lib/locomotor/locomotor2[0m
+[100%] [32m[1mLinking CXX executable /home/sweatha/wheelchair_ws/devel/.private/locomotor/lib/locomotor/locomotor1[0m
+[100%] Built target locomotor2
+[100%] Built target locomotor1

@@ -1,0 +1,1 @@
+/home/sweatha/wheelchair_ws/devel/.private/robot_nav_viz_demos/lib/pkgconfig/robot_nav_viz_demos.pc

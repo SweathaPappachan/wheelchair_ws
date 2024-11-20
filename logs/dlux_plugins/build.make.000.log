@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target dlux_plugins[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/dlux_plugins.dir/src/dijkstra.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/dlux_plugins.dir/src/astar.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dlux_plugins.dir/src/grid_path.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dlux_plugins.dir/src/gradient_path.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/dlux_plugins.dir/src/von_neumann_path.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sweatha/wheelchair_ws/devel/.private/dlux_plugins/lib/libdlux_plugins.so[0m
+[100%] Built target dlux_plugins

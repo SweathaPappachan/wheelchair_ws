@@ -1,0 +1,8 @@
+prefix=/home/sweatha/wheelchair_ws/install
+
+Name: kangaroo_driver
+Description: Description of kangaroo_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

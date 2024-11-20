@@ -1,0 +1,7 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_local_planner/cmake/dwb_local_plannerConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/dwb_local_planner/cmake/dwb_local_plannerConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libtrajectory_utils.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdwb_local_planner.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libdebug_dwb_local_planner.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/dwb_local_planner/planner_node
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/dwb_local_planner.pc

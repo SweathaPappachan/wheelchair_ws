@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/vtest.dir/test/velocity_iterator_test.cpp.o  -o /home/sweatha/wheelchair_ws/devel/.private/dwb_plugins/lib/dwb_plugins/vtest   -L/home/sweatha/wheelchair_ws/build/dwb_plugins/gtest  -Wl,-rpath,/home/sweatha/wheelchair_ws/build/dwb_plugins/gtest:/home/sweatha/wheelchair_ws/build/dwb_plugins/gtest/lib gtest/lib/libgtest.so -lpthread 

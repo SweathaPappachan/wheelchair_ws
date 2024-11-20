@@ -1,0 +1,9 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_2d_utils/cmake/nav_2d_utilsConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/nav_2d_utils/cmake/nav_2d_utilsConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libconversions.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libtf_help.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libpolygons.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libpath_ops.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/libbounds.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/nav_2d_utils.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/python3/dist-packages/nav_2d_utils/__init__.py

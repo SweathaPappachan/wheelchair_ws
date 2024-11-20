@@ -1,0 +1,8 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/locomotor/cmake/locomotorConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/locomotor/cmake/locomotorConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/liblocomotor.so
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/locomotor/locomotor1
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/locomotor/locomotor2
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/locomotor/send_action.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/locomotor/cmake.lock
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/locomotor.pc

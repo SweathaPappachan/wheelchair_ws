@@ -1,0 +1,6 @@
+Symlinking /home/sweatha/wheelchair_ws/devel/share/language_nav/cmake/language_navConfig.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/share/language_nav/cmake/language_navConfig-version.cmake
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/pkgconfig/language_nav.pc
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/language_nav/talker.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/language_nav/Voice_NLP.py
+Symlinking /home/sweatha/wheelchair_ws/devel/lib/language_nav/cmake.lock
